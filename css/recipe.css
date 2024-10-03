@@ -1,3 +1,13 @@
+*{
+    margin: 15px;
+}
+
+div{
+    border: 5px solid green;
+    border-radius: 20px;
+    background-color: lightblue;
+    margin: 0;
+}
 img{
     border-radius: 20px;
     margin-left: 600px;
